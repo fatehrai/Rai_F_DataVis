@@ -4,10 +4,8 @@
 	border: none;
 }
 
-body {
-	font-family: 16px;
-	background-color: black;
-	color: white;
-}
+body { font-size: 16px; font-family: 'Arial', 'helvetica', sans-serif; }
 
 .hidden { display: none; }
+
+.data-img { width: 40%; max-width: 100%; }
